@@ -72,7 +72,7 @@ Each animal is treated as the independent experimental unit. Kernel-density esti
 
 Data availability
 
-"[State whether example data, processed data, or no data are included. If the original data are unpublished, consider providing a small synthetic example dataset.]"
+Data will become available following publication.
 
 Citation
 
