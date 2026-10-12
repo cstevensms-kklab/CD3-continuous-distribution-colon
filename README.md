@@ -72,7 +72,7 @@ Each animal is treated as the independent experimental unit. Kernel-density esti
 
 Data availability
 
-Data will become available following publication.
+Example data are provided as csv files.
 
 Citation
 
